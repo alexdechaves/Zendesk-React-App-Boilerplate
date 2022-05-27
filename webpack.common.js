@@ -26,13 +26,7 @@ module.exports = {
             options: {
               sourceMap: true,
             },
-          },
-          {
-            loader: "sass-loader", // Compiles Sass to CSS.
-            options: {
-              sourceMap: true,
-            },
-          },
+          }
         ],
       },
       {

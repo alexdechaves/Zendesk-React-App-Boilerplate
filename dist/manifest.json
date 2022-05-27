@@ -1,9 +1,8 @@
 {
-  "name": "Zendesk React App Boilerplate",
+  "name": "Mux Docs Search",
   "author": {
-    "name": "Cloudhuset",
-    "email": "info@cloudhuset.dk",
-    "url": "https://cloudhuset.dk"
+    "name": "Alex de Chaves",
+    "email": "adechaves@mux.com"
   },
   "defaultLocale": "en",
   "private": true,

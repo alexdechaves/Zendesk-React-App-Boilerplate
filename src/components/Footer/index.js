@@ -1,5 +1,4 @@
 import React from 'react'
-import './style.scss'
 
 const Component = () => {
   return (
@@ -19,7 +18,7 @@ const Component = () => {
         <span role="img" aria-label="Love">
           ☕
         </span>
-        &nbsp;by Cloudhuset
+        &nbsp;by Mux
       </a>
     </footer>
   )
